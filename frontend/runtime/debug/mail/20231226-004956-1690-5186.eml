@@ -1,0 +1,49 @@
+From: My Application robot <support@example.com>
+To: test@test.com1ww
+Subject: Account registration at My Application
+MIME-Version: 1.0
+Date: Tue, 26 Dec 2023 00:49:56 +0100
+Message-ID: <1cb20172373e46c995edc80f7be7b039@example.com>
+Content-Type: multipart/alternative; boundary=Y1x9G6Ue
+
+--Y1x9G6Ue
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello user34,
+
+Follow the link below to verify your email:
+
+http://=
+youtube.test/site/verify-email?token=3DYZNqLCzGNt6eqqoVYYRrb4AzckTOXDtw_170=
+3548196
+--Y1x9G6Ue
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"verify-email">
+    <p>Hello user34,</p>
+
+    <p>Fol=
+low the link below to verify your email:</p>
+
+    <p><a href=3D"http://=
+youtube.test/site/verify-email?token=3DYZNqLCzGNt6eqqoVYYRrb4AzckTOXDtw_170=
+3548196">http://youtube.test/site/verify-email?token=3DYZNqLCzGNt6eqqoVYYRr=
+b4AzckTOXDtw_1703548196</a></p>
+</div>
+    </body>
+</html>
+
+--Y1x9G6Ue--

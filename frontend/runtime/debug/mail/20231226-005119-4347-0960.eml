@@ -1,0 +1,49 @@
+From: My Application robot <support@example.com>
+To: test@test.com12321
+Subject: Account registration at My Application
+MIME-Version: 1.0
+Date: Tue, 26 Dec 2023 00:51:19 +0100
+Message-ID: <4d1ad10dd056f26aa49ed2d809d71770@example.com>
+Content-Type: multipart/alternative; boundary=GbCt_usO
+
+--GbCt_usO
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello test213213,
+
+Follow the link below to verify your email:
+
+htt=
+p://youtube.test/site/verify-email?token=3D0Cll3hW23RdogYMqjlrUZEwI8oPXU8Rp=
+_1703548279
+--GbCt_usO
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"verify-email">
+    <p>Hello test213213,</p>
+
+    <p=
+>Follow the link below to verify your email:</p>
+
+    <p><a href=3D"htt=
+p://youtube.test/site/verify-email?token=3D0Cll3hW23RdogYMqjlrUZEwI8oPXU8Rp=
+_1703548279">http://youtube.test/site/verify-email?token=3D0Cll3hW23RdogYMq=
+jlrUZEwI8oPXU8Rp_1703548279</a></p>
+</div>
+    </body>
+</html>
+
+--GbCt_usO--

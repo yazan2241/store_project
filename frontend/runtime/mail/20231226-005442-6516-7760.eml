@@ -1,0 +1,49 @@
+From: yazansy097@gmail.com
+To: test@test.com1qwewq
+Subject: Account registration at My Application
+MIME-Version: 1.0
+Date: Tue, 26 Dec 2023 00:54:42 +0100
+Message-ID: <17fdddff58c0362d99ac22af49db87c3@gmail.com>
+Content-Type: multipart/alternative; boundary=fM2ZGLhk
+
+--fM2ZGLhk
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello testwqewq,
+
+Follow the link below to verify your email:
+
+http=
+://youtube.test/site/verify-email?token=3DOPbsJh1JcPp3Ry-usGuOAgASWFBjgox3_=
+1703548482
+--fM2ZGLhk
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"verify-email">
+    <p>Hello testwqewq,</p>
+
+    <p>=
+Follow the link below to verify your email:</p>
+
+    <p><a href=3D"http=
+://youtube.test/site/verify-email?token=3DOPbsJh1JcPp3Ry-usGuOAgASWFBjgox3_=
+1703548482">http://youtube.test/site/verify-email?token=3DOPbsJh1JcPp3Ry-us=
+GuOAgASWFBjgox3_1703548482</a></p>
+</div>
+    </body>
+</html>
+
+--fM2ZGLhk--
