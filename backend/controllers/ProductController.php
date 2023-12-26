@@ -18,7 +18,7 @@ use yii\web\UploadedFile;
 class ProductController extends Controller
 {
 
-    public $FRONT_END_URL = '';
+    public $FRONT_END_URL = 'http://localhost:3000/';
     /**
      * @inheritDoc
      */
