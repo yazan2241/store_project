@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'frontendUrl' => 'http://youtube.test/'
+    'frontendUrl' => 'http://localhost:3000/'
 ];
