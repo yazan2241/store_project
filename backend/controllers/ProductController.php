@@ -201,8 +201,10 @@ class ProductController extends Controller
         if (Yii::$app->user->isGuest) return false;
         $auth = new DbManager();
         $getRolesByUser = $auth->getRolesByUser(Yii::$app->user->getId());
+        if(sizeof(array_keys($getRolesByUser)) != 0){
         $Role = array_keys($getRolesByUser)[0];
         if ($Role == 'admin') return true;
         else return false;
+        }else return false;
     }
 }
