@@ -23,10 +23,11 @@ return [
             //
             // SMTP server example:
             'transport' => [
-                'class' => 'Swift_SmtpTransport',
-                'host' => 'smtp.gmail.com',
-                'username' => '',
-                'password' => '',
+                //'class' => 'Swift_SmtpTransport',
+                'scheme'=> 'smtps',
+    'host' => 'smtp.gmail.com',
+                'username' => 'yazansy097@gmail.com',
+                'password' => 'kjoixvnkbudrbyxv',
                 'port' => '587',
                 'encription' => 'tls',
                 'dsn' => 'native://default',
